@@ -1,0 +1,25 @@
+SENAI - MATERIAL DE APOIO
+QUALIDADE
+
+1. O que e qualidade?
+Qualidade e atender aos requisitos e as necessidades do cliente de forma consistente, buscando reduzir falhas e melhorar os processos.
+
+2. Processo e padronizacao
+Um processo e um conjunto de atividades que transforma entradas em resultados. Padronizar as etapas ajuda a tornar o trabalho mais previsivel e facilita a identificacao de desvios.
+
+3. Ciclo de melhoria continua (PDCA)
+- Planejar (Plan): definir o problema, a meta e as acoes.
+- Executar (Do): colocar o plano em pratica.
+- Verificar (Check): medir os resultados e comparar com a meta.
+- Agir (Act): padronizar o que funcionou ou ajustar o plano.
+
+4. Indicadores
+Indicadores ajudam a acompanhar o desempenho. Exemplos: percentual de produtos aprovados, quantidade de retrabalho e tempo de atendimento. Um indicador deve ter objetivo, forma de calculo e periodo de acompanhamento definidos.
+
+5. Tratamento de nao conformidades
+Ao encontrar um desvio, registre o que aconteceu, investigue a causa, defina uma acao corretiva e confira se ela evitou a recorrencia. Evite tratar somente o sintoma.
+
+Atividade de estudo
+Escolha um processo simples, descreva suas etapas e proponha um indicador para acompanhar se o resultado esta melhorando.
+
+Material introdutorio para estudo. Consulte as aulas e os materiais oficiais da sua unidade para aprofundar o conteudo.

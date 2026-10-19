@@ -1,0 +1,28 @@
+SENAI - MATERIAL DE APOIO
+LOGISTICA
+
+1. O que e logistica?
+Logistica planeja e acompanha o fluxo de produtos, servicos e informacoes, desde a origem ate a entrega ao cliente.
+
+2. Etapas principais
+- Suprimentos: obter materiais e acompanhar fornecedores.
+- Recebimento: conferir quantidade e condicao dos itens.
+- Armazenagem: identificar e guardar os produtos adequadamente.
+- Controle de estoque: acompanhar entradas, saidas e saldos.
+- Transporte e distribuicao: planejar a movimentacao e a entrega.
+
+3. Controle de estoque
+O registro correto de entradas e saidas ajuda a evitar falta ou excesso de produtos. A contagem periodica permite comparar o saldo registrado com o saldo fisico.
+
+Estoque final = estoque inicial + entradas - saidas
+
+4. Armazenagem
+Uma boa organizacao considera identificacao dos itens, seguranca, facilidade de acesso e rotacao do estoque. O metodo PEPS (primeiro que entra, primeiro que sai) pode ser adequado para itens com validade ou risco de obsolescencia.
+
+5. Indicadores logisticos
+Exemplos: acuracidade do estoque, prazo medio de entrega, percentual de pedidos entregues corretamente e custo de transporte.
+
+Atividade de estudo
+Desenhe o caminho de um produto desde o recebimento ate a expedicao e indique em quais etapas os dados devem ser registrados.
+
+Material introdutorio para estudo. Consulte as aulas e os materiais oficiais da sua unidade para aprofundar o conteudo.

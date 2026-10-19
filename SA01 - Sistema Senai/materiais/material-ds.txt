@@ -1,0 +1,31 @@
+SENAI - MATERIAL DE APOIO
+DESENVOLVIMENTO DE SISTEMAS (DS)
+
+1. O que e desenvolvimento de sistemas?
+E o processo de entender uma necessidade, planejar uma solucao e construir, testar e manter um programa ou aplicativo.
+
+2. Etapas comuns
+- Levantamento de requisitos: identificar o que as pessoas precisam.
+- Planejamento: definir funcionalidades, dados e etapas do projeto.
+- Implementacao: escrever o codigo usando uma linguagem de programacao.
+- Testes: verificar se o sistema funciona e corrigir problemas.
+- Manutencao: atualizar e aprimorar a solucao.
+
+3. Logica de programacao
+Um algoritmo e uma sequencia de passos para resolver um problema. Estruturas fundamentais incluem sequencia, decisao (se/senao) e repeticao (enquanto/para).
+
+Exemplo de algoritmo:
+1. Ler o preco e a quantidade.
+2. Calcular total = preco x quantidade.
+3. Mostrar o total.
+
+4. Bancos de dados
+Bancos de dados organizam informacoes para que possam ser armazenadas, consultadas e atualizadas. Uma tabela pode representar itens, com colunas para seus atributos e linhas para cada registro.
+
+5. Boas praticas
+- Divida problemas grandes em partes menores.
+- Use nomes claros para variaveis e funcoes.
+- Teste casos comuns e casos extremos.
+- Registre as decisoes importantes do projeto.
+
+Material introdutorio para estudo. Consulte as aulas e os materiais oficiais da sua unidade para aprofundar o conteudo.

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background-color: #004aad;
+
+            display: flex;
+
+            align-items: center;
+            justify-content: center;
+
+            gap: 20px;
+            font: Arial;
+
+        }
+
+        p {
+            margin: 0;
+            padding: 0;
+        }
+
+        #logo {
+            color: white;
+            font-size: 96px;
+            font-weight: bold;
+        }
+
+        #texto-logo {
+            color: white;
+            font-size: 26px;
+            font-weight: bold;
+
+        }
+
+        .links-cabe {
+            color: white;
+            font-size: 26px;
+            align-self: flex-end;
+            margin-bottom: 25px;
+        }
+
+        main {
+            display: flex;
+            flex: 1;
+            justify-content: center;
+            align-items: center;
+            gap: 28px;
+            padding: 20px;
+        }
+
+        .descricao-senai {
+            max-width: 520px;
+            font-size: 24px;
+            line-height: 1.5;
+        }
+
+        .contato-senai {
+            width: min(100%, 520px);
+            margin-top: 20px;
+            padding: 20px;
+            box-sizing: border-box;
+            border: 2px solid #004aad;
+            background-color: #f4f8ff;
+        }
+
+        .contato-senai h2 {
+            margin: 0 0 14px;
+            color: #004aad;
+        }
+
+        .contato-senai label {
+            display: block;
+            margin: 10px 0 4px;
+            color: #004aad;
+            font-weight: bold;
+        }
+
+        .contato-senai input,
+        .contato-senai textarea {
+            width: 100%;
+            padding: 9px;
+            box-sizing: border-box;
+            border: 1px solid #004aad;
+            font: inherit;
+        }
+
+        .contato-senai textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+
+        .contato-senai button {
+            margin-top: 14px;
+            padding: 10px 16px;
+            background-color: #004aad;
+            color: white;
+            font: inherit;
+            cursor: pointer;
+        }
+
+        .contato-senai button:hover,
+        .contato-senai button:focus-visible {
+            background-color: #003780;
+        }
+
+        footer {
+            background-color: #004aad;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <p id="logo">SENAI</p>
+        <p id="texto-logo"> Serviço Nacional de <br> Aprendizagem Industrial </p>
+
+        <a href="index.html" target="_self" class="links-cabe">Página inicial</a>
+        <a href="cursos.html" target="_self" class="links-cabe">Cursos</a>
+        <a href="unidades.html" target="_self" class="links-cabe">Unidades</a>
+        <a href="sobre_nos.html" target="_self" class="links-cabe">Sobre Nós</a>
+    </header>
+
+    <main>
+        <img src="assets/fiesp.jpg" alt="Prédio da fiesp" width="500" height="500">
+        <div>
+            <p class="descricao-senai">O SENAI é uma instituição de educação profissional que prepara pessoas para atuar
+                na indústria, oferecendo cursos e formação alinhados às necessidades do mercado de trabalho.</p>
+            <form class="contato-senai" method="post">
+                <h2>Fale com a equipe</h2>
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" name="nome" autocomplete="name" required>
+
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" autocomplete="email" required>
+
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" name="telefone" autocomplete="tel">
+
+                <label for="mensagem">Mensagem para a equipe</label>
+                <textarea id="mensagem" name="mensagem" required></textarea>
+
+                <button type="submit">Enviar mensagem</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2024 SENAI - Todos os direitos reservados. Contate-nos: (11) 5555-5555</p>
+    </footer>
+
+</body>
+
+</html>
