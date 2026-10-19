@@ -1,0 +1,1 @@
+A escolha do azul e branco para a construção da página do SENAI reflete a profissionalidade e referência da instiuição, transmitindo segurança e objetividade, sem poluir a interface do usuário.
