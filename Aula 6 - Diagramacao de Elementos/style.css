@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  background-color: lightblue;
+  color: #800080;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  line-height: 1.5;
+}
+
+#topo {
+  padding: 15px;
+  border: 2px solid #800080;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #800080;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 20px auto;
+  border: 2px solid yellow;
+}
+
+.destaque {
+  padding: 10px;
+  border: 2px solid #800080;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+    padding: 8px;
+    border: 2px solid yellow;
+    text-align: left;
+    background-color: yellow;
+    color: #800080;
+}
+
+td {
+  padding: 8px;
+  border: 2px solid yellow;
+  text-align: left;
+
+  background-color: #800080;
+  color: yellow;
+  border: 2px solid yellow;
+}
