@@ -1,53 +1,69 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Diagramação de Elementos</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Diagramacao</title>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    .container {
+      width: 400px;
+      margin: 0;
+      border: 5px solid black;
+      text-align: center;
+      position: relative;
+      right: 0px;
+    }
+
+    img {
+      width: 100px;
+      height: 100px;
+      background-color: dodgerblue;
+      position: fixed;
+      left: 50px;
+    }
+
+    span {
+      font-size: 20px;
+      vertical-align: bottom;
+    }
+
+    .item1 {
+      width: 150px;
+      height: 150px;
+      background-color: rgba(0, 0, 255);
+      display: inline-block;
+      position: relative;
+      left: 30px;
+    }
+
+    .item2 {
+      width: 150px;
+      height: 150px;
+      background-color: rgba(255, 0, 0);
+      display: inline-block;
+      position: absolute;
+      right: 0px;
+    }
+  </style>
 </head>
 <body>
-  <header id="topo">
+  <div class="container">
     <h1>Diagramação de Elementos</h1>
-    <nav>
-      <a href="#sobre">Sobre</a>
-      <a href="#lista">Lista</a>
-      <a href="#tabela">Tabela</a>
-    </nav>
-  </header>
-
-  <main>
-    <img src="assets/fit.webp" alt="Fit Brabo slk">
-
-    <section id="sobre">
-      <h2>Aprendendo a estilizar</h2>
-      <p class="destaque">Com HTML e CSS, podemos organizar e personalizar o conteúdo de uma página.</p>
-    </section>
-
-    <section id="lista">
-      <h2>O que vamos praticar</h2>
-      <ul>
-        <li>Seletores CSS</li>
-        <li>Cores e fontes</li>
-        <li>Box model</li>
-      </ul>
-    </section>
-
-    <section id="tabela">
-      <h2>Propriedades CSS</h2>
-      <table>
-        <tr>
-          <th>Propriedade</th>
-          <th>Uso</th>
-          <th>Exemplo</th>
-        </tr>
-        <tr>
-          <td>Padding</td>
-          <td>Espaço interno</td>
-          <td>10px</td>
-        </tr>
-      </table>
-    </section>
-  </main>
+    <p>A diagramação é a arte de organizar elementos visuais
+      em uma página, seja ela impressa ou digital. Ela envolve a disposição de textos,
+      imagens, gráficos e outros elementos de forma harmoniosa e funcional,
+      visando facilitar a leitura e a compreensão do conteúdo.</p>
+    <button>Lorem</button>
+    <div>
+      <img>
+      <span>Exemplo vertical-align</span>
+    </div>
+    <div class="item1"></div>
+    <div class="item2"></div>
+  </div>
 </body>
 </html>
